@@ -1,0 +1,10 @@
+name: ULTIMATE BungeeSystem
+version: '${project.version}'
+author: Zappler2k
+main: de.zappler.ultimatebungeesystem.ULTIMATEBungeeSystem
+
+commands:
+  teamchat:
+  tc:
+  joinme:
+  bungeesystem:

@@ -1,0 +1,7 @@
+commands:
+- Bungeesystem : "bungeesystem.command"
+- TeamChat : "bungeesystem.teamchat.command"
+- JoinMe : "bungeesystem.joinme.command"
+
+listeners:
+- ChatListener: sendBlockedWordsWarnung: "bungeesystem.blockedwords.send"
